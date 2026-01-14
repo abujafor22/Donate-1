@@ -1,0 +1,35 @@
+.lives{
+    padding-top: 130px;
+}
+.lives-iteam{
+    align-items: center;
+    justify-content: center;
+}
+.lives-2{
+    flex-direction: row-reverse;
+}
+.lives-info{
+    margin-right: 94px;
+}
+.lives-img{
+    margin-right: 94px;
+}
+.lives-info h1{
+       font-size: 3rem;
+       font-weight: 900;
+       color: #121212;
+       margin-bottom: 20px;
+}
+.lives-info p{
+       color: #707070;
+       font-size: 1rem;
+       line-height: 28px;
+}
+.lives-img img{
+    max-width: 100%;
+    border-radius: 8px;
+}
+.lives-iteam{
+    margin-bottom: 100px;
+}
+
