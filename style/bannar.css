@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1440Px;
+    margin: 0 auto;
+}
+.google-inter-font{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+}
+.display-flex{
+    display: flex;
+}
+.btn-primary{
+    padding: 16px 16px;
+    background-color: #FF5959;
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-weight: 400;
+    border-radius:5px;
+    border: none;
+    margin-top: 30px;
+}
+/* bannar section style */
+.bannar-img{
+ 
+}
+.bannar{
+    background-image: url(/images/donation0.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    height: 669px;
+    border-radius: 10px 0;
+}
+.bannar-contant{
+    max-width: 826px;
+    height: 320px;
+    text-align: center;
+}
+.bannar-contant h1{
+    font-size: 4rem;
+    color: #ff0000;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.bannar-contant p{
+   color: #FFFFFF;
+   font-size: 1rem;
+   line-height: 28px;
+   width: 691px;
+   text-align: center;
+   margin: 0 auto;
+}
